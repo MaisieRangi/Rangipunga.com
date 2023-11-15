@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="janeasaurus.net" resolutions="1x" timestamp="1700026737279">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="517868759" ref="services:contact:index"/>
+    <file name="services.css" crc="4293404006" ref="services"/>
+    <file name="contact.css" crc="212522438" ref="contact"/>
+    <file name="index.css" crc="339998643" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:services"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contact:services"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:services"/>
+    <file name="museconfig.js" crc="474374037" ref="index:contact:services"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contact:services"/>
+    <file name="require.js" crc="3951022091" ref="index:contact:services"/>
+    <file name="webpro.js" crc="4143865194" ref="contact"/>
+    <file name="form_check.php" crc="154010282" ref="contact"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact"/>
+    <file name="form_process.php" crc="512629711" ref="contact"/>
+    <file name="form-u258.php" crc="456752385" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="4005188431" seo="true" ref="index:contact:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="519603583" ref="index"/>
+    <file name="u674-4.png" crc="232870681" ref="index:contact:services"/>
+    <file name="u678-4.png" crc="369733307" ref="index:contact:services"/>
+    <file name="u594-4.png" crc="3941460123" ref="services"/>
+  </folder>
+  <file name="index.html" crc="315998274" seo="true" mt="1700026691150" redirect="true"/>
+  <file name="contact.html" crc="3843949282" seo="true" mt="1700026691150" redirect="true"/>
+  <file name="services.html" crc="214754959" seo="true" mt="1700026691150" redirect="true"/>
+</manifest>
